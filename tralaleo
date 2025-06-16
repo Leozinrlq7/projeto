@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Epic.css">
+    <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
+</head>
+<body>
+    <div class="container-principal">
+    <div class="container">
+  <div class="container">
+ <div class="container">
+  <iframe
+    src="https://www.youtube.com/embed/_x0SXfshUn8"
+    title="YouTube Shorts Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+  
+</div>
+
+</div>
+
+</div>
+
+<div class="container">
+ <div class="container">
+  <iframe
+    src="https://www.youtube.com/embed/HfzZtx9foYY"
+    title="YouTube Shorts Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+
+<div class="container">
+  <div class="container">
+ <div class="container">
+  <iframe
+    src="https://www.youtube.com/embed/PLj-3Wpx340"
+    title="YouTube Shorts Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+
+</div>
+
+<div class="container">
+ <iframe 
+  width="800" 
+  height="800" 
+  src="https://www.youtube.com/embed/ZoctbZywiQ0" 
+  title="Evolução de animais assustadoras  #animais #natureza #pets #cuidado  #shorts" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
+</div>
+
+<div class="container">
+  <div class="container">
+  <iframe
+    src="https://www.youtube.com/embed/rmc5zOEM0SM"
+    title="YouTube Shorts Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+  </div>
+</body>
+</html>
+
