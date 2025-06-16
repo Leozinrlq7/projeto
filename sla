@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="input-wrapper">
+      <img src="https://icones.pro/wp-content/uploads/2021/06/icone-loupe-gris.png" alt="Lupa">
+      <input type="text" placeholder="Pesquisar">
+    </div>
+
+
+    
+  <div class="menu-container">
+  <button class="menu-btn">☰ Menu</button>
+  <div class="popup-menu">
+    <a href="#">Configuração</a>
+    <a href="#">Ajuda</a>
+    <a href="#">idioma</a>
+  </div>
+</div>
+
+  </header>
+
+  <hr>
+
+  <div class="sla">
+    <span>Tudo</span>
+    <span>HTML</span>
+    <span>Programação de computadores</span>
+    <span>Música</span>
+    <span>Dublagens</span>
+    <span>Podcast</span>
+    <span>Ao vivo</span>
+    <span>Ficção científica</span>
+  </div>
+
+
+</body>
+</html>
+
