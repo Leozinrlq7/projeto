@@ -1,0 +1,91 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(to right,#48007c,  #001288);
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    .container {
+        background: #141313;
+        padding: 30px 30px;
+        border-radius: 21px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        max-width: 700px;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    h2 {
+        margin-bottom: 30px;
+        color: #ffffff;
+        font-size: 26px;
+    }
+
+    label {
+        display: block;
+        margin: 20px 0 7px;
+        font-weight: 600;
+        text-align: left;
+    }
+
+    input[type="number"] {
+        width: 100%;
+        padding: 15px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        outline: none;
+        transition: border 0.3s ease;
+    }
+
+    input[type="Distância percorrida"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        outline: none;
+        transition: border 0.3s ease;
+    }
+
+
+    input[type="number"]:focus {
+        border-color: #2193b0;
+    }
+
+.btn {
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+   background: linear-gradient(to right, #001288, #48007c);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn2 {
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+   background: linear-gradient(to right, #001288, #48007c);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
