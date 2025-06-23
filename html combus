@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora de Combustivel</title>
+    <link rel="stylesheet" href="stlycombus.css">
+</head>
+<body>
+<div class="container">
+    <h2>Calculadora de Combustivel</h2>
+    <form method="post">
+        <label for="Distância percorrida">Distância percorrida</label>
+         <input type="number" name="Distância percorrida" step="0.01" required>
+
+        <label for="peso">Média de Consumo (Km/l):</label>
+        <input type="number" name="Média de Consumo" step="0.01" required>
+
+        <label for="Preço por litro">Preço por litro</label>
+        <input type="number" name="Preço por litro" step="0.01" required>
+
+        <button type="submit" class="btn">CALCULAR</button>
+        <button type="submit" class="btn2">APAGAR</button>
+    </form>
+
+</div>
+</body>
+</html>
